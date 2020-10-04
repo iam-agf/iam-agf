@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-Here you can find some of my personal projects I'm working on. 
+I'm Antonio. I love coding in Python, Dart and Javascript, so if you consider I could help in any project, send me a message :octocat: .
 
-I love programming contests so I usually save some solutions to the exams I like, so you can read them if you want to learn some techniques or compare yours :smiley:
-
-I love coding in Python and Javascript, so if you consider I could help in any project, send me a message, I would love to work in something that can help the community :clap:
+[![iam-agf's github stats](https://github-readme-stats.vercel.app/api?username=iam-agf)](https://github.com/anuraghazra/github-readme-stats)
